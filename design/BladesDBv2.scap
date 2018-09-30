@@ -1,0 +1,804 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<ScappleDocument ID="CBC1C3A3-2193-4508-80E9-27333C40140B" Version="1.1">
+   <Notes>
+      <Note Width="121.423" FontSize="12" ID="0" Position="1154.0,244.3">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Fill>0.844068 0.869596 0.923064</Fill>
+            <Border Weight="1">0.485893 0.568933 0.756207</Border>
+         </Appearance>
+         <Formatting>
+            <FormatRange Bold="Yes">0,8</FormatRange>
+         </Formatting>
+         <String>Accounts
+
+E-mail address
+Encrypted password
+Other metadata</String>
+         <ConnectedNoteIDs>1</ConnectedNoteIDs>
+      </Note>
+      <Note Width="63.5254" FontSize="12" ID="1" Position="1320.0,429.4">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Fill>0.934157 0.888319 0.785290</Fill>
+            <Border Weight="1">0.269490 0.164034 0.186694</Border>
+         </Appearance>
+         <Formatting>
+            <FormatRange Bold="Yes">0,7</FormatRange>
+         </Formatting>
+         <String>LARPers
+
+Name
+Pronouns</String>
+         <ConnectedNoteIDs>0, 2-4, 17-18, 35, 37-40</ConnectedNoteIDs>
+      </Note>
+      <Note Width="76.8066" FontSize="12" ID="2" Position="1092.7,785.5">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Fill>0.898329 0.817472 0.865339</Fill>
+            <Border Weight="1">0.690303 0.407263 0.550912</Border>
+         </Appearance>
+         <Formatting>
+            <FormatRange Bold="Yes">0,10</FormatRange>
+         </Formatting>
+         <String>Characters
+
+Name
+Pronouns
+Title
+Race
+Class
+Path
+Schools
+Skills</String>
+         <ConnectedNoteIDs>1, 3-4, 8, 12, 14, 23-24, 27, 33, 39</ConnectedNoteIDs>
+      </Note>
+      <Note Width="201.981" FontSize="12" ID="3" Position="1074.2,386.0">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Fill>0.844068 0.869596 0.923064</Fill>
+            <Border Weight="1">0.485893 0.568933 0.756207</Border>
+         </Appearance>
+         <Formatting>
+            <FormatRange Bold="Yes">0,8</FormatRange>
+         </Formatting>
+         <String>Pronouns
+
+Subjective Personal (e.g. I)
+Objective Personal (e.g. me)
+Possessive Pronoun (e.g. mine)
+Possessive Determiner (e.g. my)
+Reflexive (e.g. myself)</String>
+         <ConnectedNoteIDs>1-2</ConnectedNoteIDs>
+      </Note>
+      <Note Width="207.911" FontSize="12" ID="4" Position="1700.2,502.7">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Fill>0.934157 0.888319 0.785290</Fill>
+            <Border Weight="1">0.269490 0.164034 0.186694</Border>
+         </Appearance>
+         <Formatting>
+            <FormatRange Bold="Yes">0,6</FormatRange>
+         </Formatting>
+         <String>Events
+
+Dates
+Times
+Cost
+Type (e.g. Game, Meeting, IC Meal)
+Briefs
+Debriefs
+GMs
+Campaigns
+Attendances
+Planned Attendances</String>
+         <ConnectedNoteIDs>1-2, 18, 34, 39-40</ConnectedNoteIDs>
+      </Note>
+      <Note Width="103.247" FontSize="12" ID="5" Position="163.3,1138.5">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Fill>0.768627 0.874510 0.686275</Fill>
+            <Border Weight="1" Style="Rounded">0.400000 0.686275 0.215686</Border>
+         </Appearance>
+         <Formatting>
+            <FormatRange Bold="Yes">0,8</FormatRange>
+         </Formatting>
+         <String>Castings
+
+Name
+Description
+Level
+Duration
+Casting Time
+Range
+Types
+Chain
+Subcasting Level</String>
+         <ConnectedNoteIDs>6, 11, 21, 23, 28</ConnectedNoteIDs>
+      </Note>
+      <Note Width="97.4731" FontSize="12" ID="6" Position="281.5,985.4">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Fill>0.768627 0.874510 0.686275</Fill>
+            <Border Weight="1" Style="Rounded">0.400000 0.686275 0.215686</Border>
+         </Appearance>
+         <Formatting>
+            <FormatRange Bold="Yes">0,13</FormatRange>
+            <FormatRange Italic="Yes">14,14</FormatRange>
+         </Formatting>
+         <String>Casting Types
+(enumeration?)
+Name
+Description</String>
+         <ConnectedNoteIDs>5, 11</ConnectedNoteIDs>
+      </Note>
+      <Note Width="156.25" FontSize="12" ID="7" Position="531.0,1161.7">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Fill>0.768627 0.874510 0.686275</Fill>
+            <Border Weight="1" Style="Rounded">0.400000 0.686275 0.215686</Border>
+         </Appearance>
+         <Formatting>
+            <FormatRange Bold="Yes">0,7</FormatRange>
+         </Formatting>
+         <String>Origins
+
+Name
+Type (e.g. Magical, Divine)
+Flavour Text
+Opposite (self-join)
+Secondary Origins (e.g For Justice, this would be Life and Order; for Fire, Air and Earth.)
+Origins At Next Level (e.g. 2 for Justice, 4 for Balance, 1 for Druidic Sects)</String>
+         <ConnectedNoteIDs>8, 11, 21</ConnectedNoteIDs>
+      </Note>
+      <Note Width="124.78" FontSize="12" ID="8" Position="1178.5,1270.3">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Fill>0.898329 0.817472 0.865339</Fill>
+            <Border Weight="1">0.690303 0.407263 0.550912</Border>
+         </Appearance>
+         <Formatting>
+            <FormatRange Bold="Yes">0,17</FormatRange>
+            <FormatRange Italic="Yes">18,15</FormatRange>
+         </Formatting>
+         <String>Character Schools
+(needs history)
+Character
+Origin
+Ordinal</String>
+         <ConnectedNoteIDs>2, 7</ConnectedNoteIDs>
+      </Note>
+      <Note Width="128.479" FontSize="12" ID="9" Position="107.3,552.1">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Fill>0.768627 0.874510 0.686275</Fill>
+            <Border Weight="1" Style="Rounded">0.400000 0.686275 0.215686</Border>
+         </Appearance>
+         <Formatting>
+            <FormatRange Bold="Yes">0,18</FormatRange>
+         </Formatting>
+         <String>Skill Dependencies
+
+Skill
+Dependency</String>
+         <ConnectedNoteIDs>11, 25</ConnectedNoteIDs>
+      </Note>
+      <Note Width="43.5913" FontSize="12" ID="10" Position="270.1,340.2">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Fill>0.768627 0.874510 0.686275</Fill>
+            <Border Weight="1" Style="Rounded">0.400000 0.686275 0.215686</Border>
+         </Appearance>
+         <Formatting>
+            <FormatRange Bold="Yes">0,5</FormatRange>
+         </Formatting>
+         <String>Rules
+</String>
+         <ConnectedNoteIDs>11, 30</ConnectedNoteIDs>
+      </Note>
+      <Note Width="139.453" FontSize="12" ID="11" Position="311.7,439.1">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Fill>0.768627 0.874510 0.686275</Fill>
+            <Border Weight="1" Style="Rounded">0.400000 0.686275 0.215686</Border>
+         </Appearance>
+         <Formatting>
+            <FormatRange Bold="Yes">0,13</FormatRange>
+         </Formatting>
+         <String>Rule Versions
+
+State (e.g. Live, Draft, In Playtest, Retired - state machine?)
+Start Date
+End Date
+</String>
+         <ConnectedNoteIDs>5-7, 9-10, 12-13, 15-16, 19-22, 25-26, 28, 31</ConnectedNoteIDs>
+      </Note>
+      <Note Width="116.26" FontSize="12" ID="12" Position="875.9,708.3">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Fill>0.768627 0.874510 0.686275</Fill>
+            <Border Weight="1" Style="Rounded">0.400000 0.686275 0.215686</Border>
+         </Appearance>
+         <Formatting>
+            <FormatRange Bold="Yes">0,5</FormatRange>
+         </Formatting>
+         <String>Races
+
+Name
+Description
+DT
+Life
+Mana
+Standing
+Life Threshold
+Mana Threshold
+Standing Threshold</String>
+         <ConnectedNoteIDs>2, 11, 16, 19, 26</ConnectedNoteIDs>
+      </Note>
+      <Note Width="85.7422" FontSize="12" ID="13" Position="562.4,373.1">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Fill>0.768627 0.874510 0.686275</Fill>
+            <Border Weight="1" Style="Rounded">0.400000 0.686275 0.215686</Border>
+         </Appearance>
+         <Formatting>
+            <FormatRange Bold="Yes">0,6</FormatRange>
+         </Formatting>
+         <String>Guilds
+
+Name
+Description
+Requirements
+Bonuses
+Titles
+Proscribed
+Tax Rate</String>
+         <ConnectedNoteIDs>11, 14, 19-20, 22-23</ConnectedNoteIDs>
+      </Note>
+      <Note Width="130.688" FontSize="12" ID="14" Position="883.1,292.6">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Fill>0.898329 0.817472 0.865339</Fill>
+            <Border Weight="1">0.690303 0.407263 0.550912</Border>
+         </Appearance>
+         <Formatting>
+            <FormatRange Bold="Yes">0,17</FormatRange>
+            <FormatRange Italic="Yes">18,15</FormatRange>
+         </Formatting>
+         <String>Guild Memberships
+(needs history)
+Character
+Guild
+Guild Branch
+Start Point
+End Point
+Provisional</String>
+         <ConnectedNoteIDs>2, 13, 20</ConnectedNoteIDs>
+      </Note>
+      <Note Width="70.3613" FontSize="12" ID="15" Position="849.5,1076.4">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Fill>0.768627 0.874510 0.686275</Fill>
+            <Border Weight="1" Style="Rounded">0.400000 0.686275 0.215686</Border>
+         </Appearance>
+         <Formatting>
+            <FormatRange Bold="Yes">0,7</FormatRange>
+         </Formatting>
+         <String>Classes
+
+Name
+Description</String>
+         <ConnectedNoteIDs>11, 16, 26-27</ConnectedNoteIDs>
+      </Note>
+      <Note Width="168.244" FontSize="12" ID="16" Position="846.2,900.8">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Fill>0.768627 0.874510 0.686275</Fill>
+            <Border Weight="1" Style="Rounded">0.400000 0.686275 0.215686</Border>
+         </Appearance>
+         <Formatting>
+            <FormatRange Bold="Yes">0,22</FormatRange>
+         </Formatting>
+         <String>Race Permitted Classes
+
+Race
+Class</String>
+         <ConnectedNoteIDs>11-12, 15</ConnectedNoteIDs>
+      </Note>
+      <Note Width="118.872" FontSize="12" ID="17" Position="1327.8,229.8">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Fill>0.844068 0.869596 0.923064</Fill>
+            <Border Weight="1">0.485893 0.568933 0.756207</Border>
+         </Appearance>
+         <Formatting>
+            <FormatRange Bold="Yes">0,15</FormatRange>
+         </Formatting>
+         <String>Club Membership
+
+LARPer
+Membership Type
+Expiry Date</String>
+         <ConnectedNoteIDs>1, 18</ConnectedNoteIDs>
+      </Note>
+      <Note Width="156.25" FontSize="12" ID="18" Position="1503.6,206.7">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Fill>0.844068 0.869596 0.923064</Fill>
+            <Border Weight="1">0.485893 0.568933 0.756207</Border>
+         </Appearance>
+         <Formatting>
+            <FormatRange Bold="Yes">0,4</FormatRange>
+         </Formatting>
+         <String>Fees
+
+LARPer
+Transaction Type (e.g. Membership, Game Fee, Payment)
+Game
+Club Membership</String>
+         <ConnectedNoteIDs>1, 4, 17</ConnectedNoteIDs>
+      </Note>
+      <Note Width="149.133" FontSize="12" ID="19" Position="622.8,554.1">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Fill>0.768627 0.874510 0.686275</Fill>
+            <Border Weight="1" Style="Rounded">0.400000 0.686275 0.215686</Border>
+         </Appearance>
+         <Formatting>
+            <FormatRange Bold="Yes">0,21</FormatRange>
+         </Formatting>
+         <String>Race Permitted Guilds
+
+Race
+Guild</String>
+         <ConnectedNoteIDs>11-13</ConnectedNoteIDs>
+      </Note>
+      <Note Width="105.591" FontSize="12" ID="20" Position="564.8,246.1">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Fill>0.768627 0.874510 0.686275</Fill>
+            <Border Weight="1" Style="Rounded">0.400000 0.686275 0.215686</Border>
+         </Appearance>
+         <Formatting>
+            <FormatRange Bold="Yes">0,14</FormatRange>
+         </Formatting>
+         <String>Guild Branches
+
+Name
+Description
+Requirements
+Bonuses
+Titles</String>
+         <ConnectedNoteIDs>11, 13-14, 22-23</ConnectedNoteIDs>
+      </Note>
+      <Note Width="104.102" FontSize="12" ID="21" Position="384.6,1175.1">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Fill>0.768627 0.874510 0.686275</Fill>
+            <Border Weight="1" Style="Rounded">0.400000 0.686275 0.215686</Border>
+         </Appearance>
+         <Formatting>
+            <FormatRange Bold="Yes">0,14</FormatRange>
+         </Formatting>
+         <String>Casting Chains
+
+Name
+Origin
+Castings</String>
+         <ConnectedNoteIDs>5, 7, 11</ConnectedNoteIDs>
+      </Note>
+      <Note Width="113.098" FontSize="12" ID="22" Position="392.9,216.4">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Fill>0.768627 0.874510 0.686275</Fill>
+            <Border Weight="1" Style="Rounded">0.400000 0.686275 0.215686</Border>
+         </Appearance>
+         <Formatting>
+            <FormatRange Bold="Yes">0,6</FormatRange>
+         </Formatting>
+         <String>Titles
+
+Guild
+Guild Branch
+Name
+Rank Requirement</String>
+         <ConnectedNoteIDs>11, 13, 20</ConnectedNoteIDs>
+      </Note>
+      <Note Width="112.988" FontSize="12" ID="23" Position="877.6,492.8">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Fill>0.898329 0.817472 0.865339</Fill>
+            <Border Weight="1">0.690303 0.407263 0.550912</Border>
+         </Appearance>
+         <Formatting>
+            <FormatRange Bold="Yes">0,16</FormatRange>
+            <FormatRange Italic="Yes">17,15</FormatRange>
+         </Formatting>
+         <String>Character Skills
+(needs history)
+Character
+Skill
+Level
+Castings
+Subcasting
+Purchase Date
+Purchase Level
+Purchase Cost
+Approval
+Source (e.g. Guild/Branch)</String>
+         <ConnectedNoteIDs>2, 5, 13, 20, 25</ConnectedNoteIDs>
+      </Note>
+      <Note Width="166.84" FontSize="12" ID="24" Position="1387.3,945.7">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Fill>0.898329 0.817472 0.865339</Fill>
+            <Border Weight="1">0.690303 0.407263 0.550912</Border>
+         </Appearance>
+         <Formatting>
+            <FormatRange Bold="Yes">0,23</FormatRange>
+         </Formatting>
+         <String>Character Point Changes
+
+Character
+Date
+Points</String>
+         <ConnectedNoteIDs>2, 36</ConnectedNoteIDs>
+      </Note>
+      <Note Width="168.229" FontSize="12" ID="25" Position="23.4,690.8">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Fill>0.768627 0.874510 0.686275</Fill>
+            <Border Weight="1" Style="Rounded">0.400000 0.686275 0.215686</Border>
+         </Appearance>
+         <Formatting>
+            <FormatRange Bold="Yes">0,5</FormatRange>
+         </Formatting>
+         <String>Skill
+
+Name
+Description
+Has Level
+Max Level
+Casting Type (e.g. Non-Casting, Single Spell, Single Miracle, Multi Spell, Multi Miracle, Multi Casting)
+Purchase Limit (i.e. number of times can be bought)
+Restrictions</String>
+         <ConnectedNoteIDs>9, 11, 23, 26</ConnectedNoteIDs>
+      </Note>
+      <Note Width="147.266" FontSize="12" ID="26" Position="569.3,949.8">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Fill>0.768627 0.874510 0.686275</Fill>
+            <Border Weight="1" Style="Rounded">0.400000 0.686275 0.215686</Border>
+         </Appearance>
+         <Formatting>
+            <FormatRange Bold="Yes">0,10</FormatRange>
+         </Formatting>
+         <String>Skill Cost
+
+Skill
+Race
+Class
+Cost Type (e.g. Basic, Level-based, Derived)
+Cost
+Formula
+Base Skill Cost (self-join)</String>
+         <ConnectedNoteIDs>11-12, 15, 25</ConnectedNoteIDs>
+      </Note>
+      <Note Width="123.315" FontSize="12" ID="27" Position="1006.8,1056.8">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Fill>0.898329 0.817472 0.865339</Fill>
+            <Border Weight="1">0.690303 0.407263 0.550912</Border>
+         </Appearance>
+         <Formatting>
+            <FormatRange Bold="Yes">0,17</FormatRange>
+         </Formatting>
+         <String>Character Classes
+
+Character
+Class</String>
+         <ConnectedNoteIDs>2, 15</ConnectedNoteIDs>
+      </Note>
+      <Note Width="149.878" FontSize="12" ID="28" Position="86.6,974.1">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Fill>0.768627 0.874510 0.686275</Fill>
+            <Border Weight="1" Style="Rounded">0.400000 0.686275 0.215686</Border>
+         </Appearance>
+         <Formatting>
+            <FormatRange Bold="Yes">0,20</FormatRange>
+         </Formatting>
+         <String>Casting Dependencies
+
+Casting
+Dependency</String>
+         <ConnectedNoteIDs>5, 11</ConnectedNoteIDs>
+      </Note>
+      <Note Width="89.2578" FontSize="12" ID="29" Position="106.2,23.4">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Fill>1.0 0.752941 0.792157</Fill>
+            <Border Weight="1" Style="Rounded">1.0 0.0 0.0</Border>
+         </Appearance>
+         <Formatting>
+            <FormatRange Bold="Yes">0,11</FormatRange>
+            <FormatRange Italic="Yes">12,11</FormatRange>
+         </Formatting>
+         <String>Rules Pages
+(versioned)
+Title
+Parent
+Previous Page
+Next Page
+Entries</String>
+         <ConnectedNoteIDs>30</ConnectedNoteIDs>
+      </Note>
+      <Note Width="156.25" FontSize="12" ID="30" Position="102.1,181.8">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Fill>1.0 0.752941 0.792157</Fill>
+            <Border Weight="1" Style="Rounded">1.0 0.0 0.0</Border>
+         </Appearance>
+         <Formatting>
+            <FormatRange Bold="Yes">0,18</FormatRange>
+         </Formatting>
+         <String>Rules Page Entries
+
+Rules Page
+Previous Entry (self-join)
+Next Entry (self-join)
+Rule</String>
+         <ConnectedNoteIDs>10, 29</ConnectedNoteIDs>
+      </Note>
+      <Note Width="75.3418" FontSize="12" ID="31" Position="47.2,431.9">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Fill>0.768627 0.874510 0.686275</Fill>
+            <Border Weight="1" Style="Rounded">0.400000 0.686275 0.215686</Border>
+         </Appearance>
+         <Formatting>
+            <FormatRange Bold="Yes">0,9</FormatRange>
+         </Formatting>
+         <String>Mechanics
+
+Name
+Text</String>
+         <ConnectedNoteIDs>11</ConnectedNoteIDs>
+      </Note>
+      <Note Width="156.25" FontSize="12" ID="32" Position="302.1,35.3">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Fill>1.0 0.752941 0.792157</Fill>
+            <Border Weight="1" Style="Rounded">1.0 0.0 0.0</Border>
+         </Appearance>
+         <Formatting>
+            <FormatRange Bold="Yes">0,5</FormatRange>
+            <FormatRange Italic="Yes">6,11</FormatRange>
+         </Formatting>
+         <String>Pages
+(versioned)
+Title
+Text
+Visibility
+Status (e.g. Live, Draft, Retired)</String>
+      </Note>
+      <Note Width="179.756" FontSize="12" ID="33" Position="1416.7,1090.2">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Fill>0.898329 0.817472 0.865339</Fill>
+            <Border Weight="1">0.690303 0.407263 0.550912</Border>
+         </Appearance>
+         <Formatting>
+            <FormatRange Bold="Yes">0,23</FormatRange>
+         </Formatting>
+         <String>Character Money Changes
+
+Character
+Date
+Florins</String>
+         <ConnectedNoteIDs>2, 36</ConnectedNoteIDs>
+      </Note>
+      <Note Width="125.586" FontSize="12" ID="34" Position="2033.3,706.2">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Fill>0.934157 0.888319 0.785290</Fill>
+            <Border Weight="1">0.269490 0.164034 0.186694</Border>
+         </Appearance>
+         <Formatting>
+            <FormatRange Bold="Yes">0,8</FormatRange>
+         </Formatting>
+         <String>Debriefs
+
+Game
+IC Debrief
+OOC Debrief
+State (Open, Closed)
+Base Player Points
+Base Monster Points
+Base Danger Pay</String>
+         <ConnectedNoteIDs>4, 36-38</ConnectedNoteIDs>
+      </Note>
+      <Note Width="155.762" FontSize="12" ID="35" Position="1410.4,808.9">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Fill>0.934157 0.888319 0.785290</Fill>
+            <Border Weight="1">0.269490 0.164034 0.186694</Border>
+         </Appearance>
+         <Formatting>
+            <FormatRange Bold="Yes">0,21</FormatRange>
+         </Formatting>
+         <String>Monster Point Changes
+
+LARPer
+Date
+Points</String>
+         <ConnectedNoteIDs>1, 37-38</ConnectedNoteIDs>
+      </Note>
+      <Note Width="97.5098" FontSize="12" ID="36" Position="2063.9,1066.6">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Fill>0.934157 0.888319 0.785290</Fill>
+            <Border Weight="1">0.269490 0.164034 0.186694</Border>
+         </Appearance>
+         <Formatting>
+            <FormatRange Bold="Yes">0,14</FormatRange>
+         </Formatting>
+         <String>Player Debrief
+
+Character
+Base Points
+Bonus Points
+Bonus Pay
+Other Income
+Comment</String>
+         <ConnectedNoteIDs>24, 33-34</ConnectedNoteIDs>
+      </Note>
+      <Note Width="115.906" FontSize="12" ID="37" Position="1721.5,735.3">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Fill>0.934157 0.888319 0.785290</Fill>
+            <Border Weight="1">0.269490 0.164034 0.186694</Border>
+         </Appearance>
+         <Formatting>
+            <FormatRange Bold="Yes">0,16</FormatRange>
+         </Formatting>
+         <String>Monster Debriefs
+
+LARPer
+Base Points
+Bonus Points
+Comment</String>
+         <ConnectedNoteIDs>1, 34-35</ConnectedNoteIDs>
+      </Note>
+      <Note Width="85.6567" FontSize="12" ID="38" Position="1747.2,920.1">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Fill>0.934157 0.888319 0.785290</Fill>
+            <Border Weight="1">0.269490 0.164034 0.186694</Border>
+         </Appearance>
+         <Formatting>
+            <FormatRange Bold="Yes">0,11</FormatRange>
+         </Formatting>
+         <String>GM Debriefs
+
+LARPer
+Base Points
+GM Points
+Comment</String>
+         <ConnectedNoteIDs>1, 34-35</ConnectedNoteIDs>
+      </Note>
+      <Note Width="141.943" FontSize="12" ID="39" Position="1862.5,229.1">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Fill>0.934157 0.888319 0.785290</Fill>
+            <Border Weight="1">0.269490 0.164034 0.186694</Border>
+         </Appearance>
+         <Formatting>
+            <FormatRange Bold="Yes">0,19</FormatRange>
+         </Formatting>
+         <String>Planned Attendances
+
+Event
+LARPer
+Attendance Type
+Comment
+Character
+State</String>
+         <ConnectedNoteIDs>1-2, 4, 42</ConnectedNoteIDs>
+      </Note>
+      <Note Width="84.1919" FontSize="12" ID="40" Position="2021.5,422.8">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Fill>0.934157 0.888319 0.785290</Fill>
+            <Border Weight="1">0.269490 0.164034 0.186694</Border>
+         </Appearance>
+         <Formatting>
+            <FormatRange Bold="Yes">0,11</FormatRange>
+         </Formatting>
+         <String>Event Meals
+
+Event
+Meal</String>
+         <ConnectedNoteIDs>1, 4, 41</ConnectedNoteIDs>
+      </Note>
+      <Note Width="130.676" FontSize="12" ID="41" Position="2162.5,427.0">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Fill>0.934157 0.888319 0.785290</Fill>
+            <Border Weight="1">0.269490 0.164034 0.186694</Border>
+         </Appearance>
+         <Formatting>
+            <FormatRange Bold="Yes">0,18</FormatRange>
+         </Formatting>
+         <String>Event Meal Options
+
+Event Meal
+Food Option</String>
+         <ConnectedNoteIDs>40, 42</ConnectedNoteIDs>
+      </Note>
+      <Note Width="119.946" FontSize="12" ID="42" Position="2126.9,265.4">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Fill>0.934157 0.888319 0.785290</Fill>
+            <Border Weight="1">0.269490 0.164034 0.186694</Border>
+         </Appearance>
+         <Formatting>
+            <FormatRange Bold="Yes">0,13</FormatRange>
+         </Formatting>
+         <String>Food Requests
+
+Planned Attendance
+Event Meal Option</String>
+         <ConnectedNoteIDs>39, 41</ConnectedNoteIDs>
+      </Note>
+   </Notes>
+   <BackgroundShapes/>
+   <NoteStyles>
+      <Style AffectFontStyle="No" AffectAlignment="No" Name="Pink Bubble" ID="6D8CF326-A438-43B1-984A-765385A152BA" AffectTextColor="No" AffectNoteBody="Yes" AffectSticky="No" AffectSize="No" AffectFade="No">
+         <BorderThickness>1</BorderThickness>
+         <BorderColor>0.690303 0.407263 0.550912</BorderColor>
+         <FillColor>0.898329 0.817472 0.865339</FillColor>
+      </Style>
+      <Style AffectFontStyle="No" AffectAlignment="No" Name="Brown Bubble" ID="DA5B403F-2B72-4030-A3F5-CBE524CA7474" AffectTextColor="No" AffectNoteBody="Yes" AffectSticky="No" AffectSize="No" AffectFade="No">
+         <BorderThickness>1</BorderThickness>
+         <BorderColor>0.269490 0.164034 0.186694</BorderColor>
+         <FillColor>0.934157 0.888319 0.785290</FillColor>
+      </Style>
+      <Style AffectFontStyle="Yes" AffectAlignment="Yes" Name="Title Text" ID="9C6A97D9-FE6D-4E67-B2C9-A5AB0FC02530" AffectTextColor="No" AffectNoteBody="No" AffectSticky="No" AffectSize="No" AffectFade="No">
+         <IsBold>Yes</IsBold>
+         <FontSize>12.0</FontSize>
+      </Style>
+      <Style AffectFontStyle="No" AffectAlignment="No" Name="Green Bubble" ID="8B24700D-1A03-4980-8813-399B115B0921" AffectTextColor="No" AffectNoteBody="Yes" AffectSticky="No" AffectSize="No" AffectFade="No">
+         <BorderThickness>1</BorderThickness>
+         <BorderColor>0.399100 0.583322 0.354864</BorderColor>
+         <FillColor>0.808835 0.872419 0.801343</FillColor>
+      </Style>
+      <Style AffectFontStyle="Yes" AffectAlignment="Yes" Name="Red Bubble" ID="9710DDD0-E4CB-4D8E-9982-3FEA7A895FCF" AffectTextColor="Yes" AffectNoteBody="Yes" AffectSticky="Yes" AffectSize="No" AffectFade="No">
+         <BorderThickness>1</BorderThickness>
+         <BorderStyle>Rounded</BorderStyle>
+         <BorderColor>1.0 0.0 0.0</BorderColor>
+         <FillColor>1.0 0.752941 0.792157</FillColor>
+         <Sticky>Yes</Sticky>
+         <FontSize>12.0</FontSize>
+      </Style>
+      <Style AffectFontStyle="No" AffectAlignment="No" Name="Blue Bubble" ID="928CB7FB-CFE8-4A68-B758-41EACCC794CC" AffectTextColor="No" AffectNoteBody="Yes" AffectSticky="No" AffectSize="No" AffectFade="No">
+         <BorderThickness>1</BorderThickness>
+         <BorderColor>0.485893 0.568933 0.756207</BorderColor>
+         <FillColor>0.844068 0.869596 0.923064</FillColor>
+      </Style>
+      <Style AffectFontStyle="No" AffectAlignment="No" Name="Red Text" ID="6D37C944-F2D1-441B-A1A1-4AD522774F86" AffectTextColor="Yes" AffectNoteBody="No" AffectSticky="No" AffectSize="No" AffectFade="No">
+         <TextColor>1.0 0.0 0.0</TextColor>
+      </Style>
+      <Style AffectFontStyle="No" AffectAlignment="No" Name="Yellow Bubble" ID="34D0E8FF-E872-465D-B484-DA1F01B3C840" AffectTextColor="No" AffectNoteBody="Yes" AffectSticky="No" AffectSize="No" AffectFade="No">
+         <BorderThickness>1</BorderThickness>
+         <BorderColor>0.769436 0.762219 0.390143</BorderColor>
+         <FillColor>0.912963 0.894118 0.644541</FillColor>
+      </Style>
+   </NoteStyles>
+   <UISettings>
+      <BackgroundColor>1.0 0.988006 0.945006</BackgroundColor>
+      <DefaultFont>Helvetica</DefaultFont>
+      <DefaultTextColor>0.0 0.0 0.0</DefaultTextColor>
+   </UISettings>
+   <PrintSettings VerticalPagination="Auto" HorizontalPagination="Clip" Orientation="Portrait" RightMargin="12.000000" BottomMargin="12.000000" HorizontallyCentered="Yes" ScaleFactor="1.000000" PagesAcross="1" PaperType="iso-a4" PagesDown="1" TopMargin="12.000000" Collates="Yes" PaperSize="-1.000000,-1.000000" LeftMargin="12.000000" VerticallyCentered="Yes"/>
+</ScappleDocument>
