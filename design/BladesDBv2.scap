@@ -58,7 +58,7 @@ Status
 GM Notes
 Private Notes
 Bio and Stuff</String>
-         <ConnectedNoteIDs>1, 3-4, 8, 12, 14, 23-24, 27, 33, 39, 45, 48, 52-53, 56, 62-63</ConnectedNoteIDs>
+         <ConnectedNoteIDs>1, 3-4, 8, 12, 14, 23-24, 27, 33, 39, 45, 48, 52, 62-64</ConnectedNoteIDs>
       </Note>
       <Note Width="201.981" FontSize="12" ID="3" Position="1074.2,453.8">
          <Appearance>
@@ -161,7 +161,7 @@ Secondary Origins (e.g For Justice, this would be Life and Order; for Fire, Air 
 Origins At Next Level (e.g. 2 for Justice, 4 for Balance, 1 for Druidic Sects)</String>
          <ConnectedNoteIDs>8, 11, 21</ConnectedNoteIDs>
       </Note>
-      <Note Width="124.78" FontSize="12" ID="8" Position="1120.9,1364.8">
+      <Note Width="119.604" FontSize="12" ID="8" Position="953.4,1247.6">
          <Appearance>
             <Alignment>Left</Alignment>
             <Fill>0.898329 0.817472 0.865339</Fill>
@@ -171,7 +171,7 @@ Origins At Next Level (e.g. 2 for Justice, 4 for Balance, 1 for Druidic Sects)</
             <FormatRange Bold="Yes">0,17</FormatRange>
             <FormatRange Italic="Yes">18,15</FormatRange>
          </Formatting>
-         <String>Character Schools
+         <String>Character Origins
 (needs history)
 Character
 Origin
@@ -285,7 +285,7 @@ End Point
 Provisional</String>
          <ConnectedNoteIDs>2, 13, 20, 57</ConnectedNoteIDs>
       </Note>
-      <Note Width="70.3613" FontSize="12" ID="15" Position="849.5,1144.2">
+      <Note Width="70.3613" FontSize="12" ID="15" Position="815.6,1112.3">
          <Appearance>
             <Alignment>Left</Alignment>
             <Fill>0.768627 0.874510 0.686275</Fill>
@@ -440,7 +440,7 @@ Approval
 Source (e.g. Guild/Branch)</String>
          <ConnectedNoteIDs>2, 5, 13, 20, 25</ConnectedNoteIDs>
       </Note>
-      <Note Width="166.84" FontSize="12" ID="24" Position="1712.1,1126.5">
+      <Note Width="166.84" FontSize="12" ID="24" Position="1853.0,1218.0">
          <Appearance>
             <Alignment>Left</Alignment>
             <Fill>0.898329 0.817472 0.865339</Fill>
@@ -496,7 +496,7 @@ Formula
 Base Skill Cost (self-join)</String>
          <ConnectedNoteIDs>11-12, 15, 25</ConnectedNoteIDs>
       </Note>
-      <Note Width="123.315" FontSize="12" ID="27" Position="1006.8,1124.6">
+      <Note Width="123.315" FontSize="12" ID="27" Position="923.5,1091.7">
          <Appearance>
             <Alignment>Left</Alignment>
             <Fill>0.898329 0.817472 0.865339</Fill>
@@ -597,7 +597,7 @@ Edit Roles
 Campaign</String>
          <ConnectedNoteIDs>46, 49</ConnectedNoteIDs>
       </Note>
-      <Note Width="179.756" FontSize="12" ID="33" Position="1603.8,1532.2">
+      <Note Width="179.756" FontSize="12" ID="33" Position="1561.7,1584.6">
          <Appearance>
             <Alignment>Left</Alignment>
             <Fill>0.898329 0.817472 0.865339</Fill>
@@ -647,7 +647,7 @@ Base Danger Pay</String>
 LARPer
 Date
 Points</String>
-         <ConnectedNoteIDs>1, 37-38, 55, 58</ConnectedNoteIDs>
+         <ConnectedNoteIDs>1, 37-38, 53, 55, 58</ConnectedNoteIDs>
       </Note>
       <Note Width="97.5098" FontSize="12" ID="36" Position="2164.6,1285.5">
          <Appearance>
@@ -936,7 +936,7 @@ Title
 Ranks</String>
          <ConnectedNoteIDs>1, 4, 46</ConnectedNoteIDs>
       </Note>
-      <Note Width="144.873" FontSize="12" ID="52" Position="1551.9,1171.6">
+      <Note Width="144.873" FontSize="12" ID="52" Position="1472.7,1109.9">
          <Appearance>
             <Alignment>Left</Alignment>
             <Fill>0.517647 0.776471 0.776471</Fill>
@@ -952,15 +952,14 @@ Name
 Title
 Race
 Class
-Paths
-Schools
+Origins (i.e. Schools and Paths)
 Starting Points
 Starting Money
 Starting DTs
 Guild History</String>
          <ConnectedNoteIDs>1-2</ConnectedNoteIDs>
       </Note>
-      <Note Width="123.315" FontSize="12" ID="53" Position="828.6,1268.8">
+      <Note Width="123.315" FontSize="12" ID="53" Position="1616.0,1369.5">
          <Appearance>
             <Alignment>Left</Alignment>
             <Fill>0.517647 0.776471 0.776471</Fill>
@@ -970,7 +969,7 @@ Guild History</String>
             <FormatRange Bold="Yes">0,17</FormatRange>
          </Formatting>
          <String>Character Recycle</String>
-         <ConnectedNoteIDs>2</ConnectedNoteIDs>
+         <ConnectedNoteIDs>35, 64</ConnectedNoteIDs>
       </Note>
       <Note Width="124.194" FontSize="12" ID="54" Position="1903.5,1152.4">
          <Appearance>
@@ -996,7 +995,7 @@ Guild History</String>
          <String>Monster Point Adjustment</String>
          <ConnectedNoteIDs>35</ConnectedNoteIDs>
       </Note>
-      <Note Width="155.029" FontSize="12" ID="56" Position="993.5,1268.6">
+      <Note Width="155.029" FontSize="12" ID="56" Position="1100.4,1467.0">
          <Appearance>
             <Alignment>Left</Alignment>
             <Fill>0.517647 0.776471 0.776471</Fill>
@@ -1006,7 +1005,7 @@ Guild History</String>
             <FormatRange Bold="Yes">0,22</FormatRange>
          </Formatting>
          <String>Character Resurrection</String>
-         <ConnectedNoteIDs>2</ConnectedNoteIDs>
+         <ConnectedNoteIDs>64</ConnectedNoteIDs>
       </Note>
       <Note Width="165.215" FontSize="12" ID="57" Position="973.8,324.9">
          <Appearance>
@@ -1109,6 +1108,22 @@ Character
 Date
 DTs</String>
          <ConnectedNoteIDs>2, 36, 59</ConnectedNoteIDs>
+      </Note>
+      <Note Width="156.25" FontSize="12" ID="64" Position="1132.8,1303.6">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Fill>0.898329 0.817472 0.865339</Fill>
+            <Border Weight="1">0.690303 0.407263 0.550912</Border>
+         </Appearance>
+         <Formatting>
+            <FormatRange Bold="Yes">0,24</FormatRange>
+         </Formatting>
+         <String>Character Status Changes
+
+Character
+Date
+Status</String>
+         <ConnectedNoteIDs>2, 53, 56</ConnectedNoteIDs>
       </Note>
    </Notes>
    <BackgroundShapes/>
