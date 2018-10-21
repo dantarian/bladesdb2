@@ -666,7 +666,7 @@ Bonus Points
 Bonus Pay
 Other Income
 Comment</String>
-         <ConnectedNoteIDs>24, 33-34, 63</ConnectedNoteIDs>
+         <ConnectedNoteIDs>24, 33-34, 63-64</ConnectedNoteIDs>
       </Note>
       <Note Width="115.906" FontSize="12" ID="37" Position="2160.4,969.6">
          <Appearance>
@@ -929,7 +929,7 @@ Additional Information</String>
          </Formatting>
          <String>Event Application
 
-Event
+Events (order of preference)
 GMs
 Campaign
 Title
@@ -959,7 +959,7 @@ Starting DTs
 Guild History</String>
          <ConnectedNoteIDs>1-2</ConnectedNoteIDs>
       </Note>
-      <Note Width="123.315" FontSize="12" ID="53" Position="1616.0,1369.5">
+      <Note Width="123.315" FontSize="12" ID="53" Position="1671.5,1303.7">
          <Appearance>
             <Alignment>Left</Alignment>
             <Fill>0.517647 0.776471 0.776471</Fill>
@@ -1123,7 +1123,7 @@ DTs</String>
 Character
 Date
 Status</String>
-         <ConnectedNoteIDs>2, 53, 56</ConnectedNoteIDs>
+         <ConnectedNoteIDs>2, 36, 53, 56</ConnectedNoteIDs>
       </Note>
    </Notes>
    <BackgroundShapes/>
