@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8' standalone='no'?>
 <ScappleDocument ID="CBC1C3A3-2193-4508-80E9-27333C40140B" Version="1.1">
    <Notes>
-      <Note Width="121.423" FontSize="12" ID="0" Position="1154.0,270.9">
+      <Note Width="121.423" FontSize="12" ID="0" Position="1154.0,312.1">
          <Appearance>
             <Alignment>Left</Alignment>
             <Fill>0.844068 0.869596 0.923064</Fill>
@@ -17,7 +17,7 @@ Encrypted password
 Other metadata</String>
          <ConnectedNoteIDs>1</ConnectedNoteIDs>
       </Note>
-      <Note Width="105.493" FontSize="12" ID="1" Position="1352.0,529.0">
+      <Note Width="105.493" FontSize="12" ID="1" Position="1546.3,620.5">
          <Appearance>
             <Alignment>Left</Alignment>
             <Fill>0.934157 0.888319 0.785290</Fill>
@@ -31,9 +31,9 @@ Other metadata</String>
 Name
 Pronouns
 Committee Notes</String>
-         <ConnectedNoteIDs>0, 2-4, 17-18, 35, 37-40, 46, 48, 51-52, 55, 58</ConnectedNoteIDs>
+         <ConnectedNoteIDs>0, 2-4, 17-18, 35, 37-40, 45-46, 48, 51-52</ConnectedNoteIDs>
       </Note>
-      <Note Width="83.8257" FontSize="12" ID="2" Position="1108.1,695.6">
+      <Note Width="83.8257" FontSize="12" ID="2" Position="1108.1,736.8">
          <Appearance>
             <Alignment>Left</Alignment>
             <Fill>0.898329 0.817472 0.865339</Fill>
@@ -58,9 +58,9 @@ Status
 GM Notes
 Private Notes
 Bio and Stuff</String>
-         <ConnectedNoteIDs>1, 3-4, 8, 12, 14, 23-24, 27, 33, 39, 45, 48, 52-54, 56-57, 59</ConnectedNoteIDs>
+         <ConnectedNoteIDs>1, 3-4, 8, 12, 14, 23-24, 27, 33, 39, 45, 48, 52-53, 56, 62-63</ConnectedNoteIDs>
       </Note>
-      <Note Width="201.981" FontSize="12" ID="3" Position="1074.2,412.6">
+      <Note Width="201.981" FontSize="12" ID="3" Position="1074.2,453.8">
          <Appearance>
             <Alignment>Left</Alignment>
             <Fill>0.844068 0.869596 0.923064</Fill>
@@ -78,7 +78,7 @@ Possessive Determiner (e.g. my)
 Reflexive (e.g. myself)</String>
          <ConnectedNoteIDs>1-2</ConnectedNoteIDs>
       </Note>
-      <Note Width="207.911" FontSize="12" ID="4" Position="1703.5,510.2">
+      <Note Width="207.911" FontSize="12" ID="4" Position="2134.2,492.8">
          <Appearance>
             <Alignment>Left</Alignment>
             <Fill>0.934157 0.888319 0.785290</Fill>
@@ -96,14 +96,15 @@ Type (e.g. Game, Meeting, IC Meal)
 Briefs
 Debriefs
 GMs
-Caterers
 Campaigns
 Attendances
 Planned Attendances
-Looking For Co-GM</String>
-         <ConnectedNoteIDs>1-2, 18, 34, 39-40, 46, 48, 51</ConnectedNoteIDs>
+Looking For Co-GM
+Residential
+Location</String>
+         <ConnectedNoteIDs>1-2, 18, 34, 39-40, 46, 48, 51, 60</ConnectedNoteIDs>
       </Note>
-      <Note Width="103.247" FontSize="12" ID="5" Position="163.3,1165.1">
+      <Note Width="103.247" FontSize="12" ID="5" Position="163.3,1206.3">
          <Appearance>
             <Alignment>Left</Alignment>
             <Fill>0.768627 0.874510 0.686275</Fill>
@@ -125,7 +126,7 @@ Chain
 Subcasting Level</String>
          <ConnectedNoteIDs>6, 11, 21, 23, 28</ConnectedNoteIDs>
       </Note>
-      <Note Width="97.4731" FontSize="12" ID="6" Position="281.5,1012.0">
+      <Note Width="97.4731" FontSize="12" ID="6" Position="281.5,1053.2">
          <Appearance>
             <Alignment>Left</Alignment>
             <Fill>0.768627 0.874510 0.686275</Fill>
@@ -141,7 +142,7 @@ Name
 Description</String>
          <ConnectedNoteIDs>5, 11</ConnectedNoteIDs>
       </Note>
-      <Note Width="156.25" FontSize="12" ID="7" Position="531.0,1188.3">
+      <Note Width="156.25" FontSize="12" ID="7" Position="531.0,1229.5">
          <Appearance>
             <Alignment>Left</Alignment>
             <Fill>0.768627 0.874510 0.686275</Fill>
@@ -160,7 +161,7 @@ Secondary Origins (e.g For Justice, this would be Life and Order; for Fire, Air 
 Origins At Next Level (e.g. 2 for Justice, 4 for Balance, 1 for Druidic Sects)</String>
          <ConnectedNoteIDs>8, 11, 21</ConnectedNoteIDs>
       </Note>
-      <Note Width="124.78" FontSize="12" ID="8" Position="1178.5,1296.9">
+      <Note Width="124.78" FontSize="12" ID="8" Position="1120.9,1364.8">
          <Appearance>
             <Alignment>Left</Alignment>
             <Fill>0.898329 0.817472 0.865339</Fill>
@@ -177,7 +178,7 @@ Origin
 Ordinal</String>
          <ConnectedNoteIDs>2, 7</ConnectedNoteIDs>
       </Note>
-      <Note Width="128.479" FontSize="12" ID="9" Position="107.3,578.7">
+      <Note Width="128.479" FontSize="12" ID="9" Position="107.3,619.9">
          <Appearance>
             <Alignment>Left</Alignment>
             <Fill>0.768627 0.874510 0.686275</Fill>
@@ -192,7 +193,7 @@ Skill
 Dependency</String>
          <ConnectedNoteIDs>11, 25</ConnectedNoteIDs>
       </Note>
-      <Note Width="43.5913" FontSize="12" ID="10" Position="270.1,366.8">
+      <Note Width="43.5913" FontSize="12" ID="10" Position="270.1,408.0">
          <Appearance>
             <Alignment>Left</Alignment>
             <Fill>0.768627 0.874510 0.686275</Fill>
@@ -205,7 +206,7 @@ Dependency</String>
 </String>
          <ConnectedNoteIDs>11, 30</ConnectedNoteIDs>
       </Note>
-      <Note Width="139.453" FontSize="12" ID="11" Position="311.7,465.7">
+      <Note Width="139.453" FontSize="12" ID="11" Position="311.7,506.9">
          <Appearance>
             <Alignment>Left</Alignment>
             <Fill>0.768627 0.874510 0.686275</Fill>
@@ -220,9 +221,9 @@ State (e.g. Live, Draft, In Playtest, Retired - state machine?)
 Start Date
 End Date
 </String>
-         <ConnectedNoteIDs>5-7, 9-10, 12-13, 15-16, 19-22, 25-26, 28, 31</ConnectedNoteIDs>
+         <ConnectedNoteIDs>5-7, 9-10, 12-13, 15-16, 19-22, 25-26, 28, 31, 61</ConnectedNoteIDs>
       </Note>
-      <Note Width="116.26" FontSize="12" ID="12" Position="875.9,734.9">
+      <Note Width="116.26" FontSize="12" ID="12" Position="875.9,776.1">
          <Appearance>
             <Alignment>Left</Alignment>
             <Fill>0.768627 0.874510 0.686275</Fill>
@@ -244,7 +245,7 @@ Mana Threshold
 Standing Threshold</String>
          <ConnectedNoteIDs>2, 11, 16, 19, 26</ConnectedNoteIDs>
       </Note>
-      <Note Width="85.7422" FontSize="12" ID="13" Position="562.4,399.7">
+      <Note Width="85.7422" FontSize="12" ID="13" Position="562.4,440.9">
          <Appearance>
             <Alignment>Left</Alignment>
             <Fill>0.768627 0.874510 0.686275</Fill>
@@ -262,9 +263,9 @@ Bonuses
 Titles
 Proscribed
 Tax Rate</String>
-         <ConnectedNoteIDs>11, 14, 19-20, 22-23</ConnectedNoteIDs>
+         <ConnectedNoteIDs>11, 14, 19-20, 22-23, 61-62</ConnectedNoteIDs>
       </Note>
-      <Note Width="130.688" FontSize="12" ID="14" Position="883.1,319.2">
+      <Note Width="130.688" FontSize="12" ID="14" Position="883.1,360.4">
          <Appearance>
             <Alignment>Left</Alignment>
             <Fill>0.898329 0.817472 0.865339</Fill>
@@ -284,7 +285,7 @@ End Point
 Provisional</String>
          <ConnectedNoteIDs>2, 13, 20, 57</ConnectedNoteIDs>
       </Note>
-      <Note Width="70.3613" FontSize="12" ID="15" Position="849.5,1103.0">
+      <Note Width="70.3613" FontSize="12" ID="15" Position="849.5,1144.2">
          <Appearance>
             <Alignment>Left</Alignment>
             <Fill>0.768627 0.874510 0.686275</Fill>
@@ -299,7 +300,7 @@ Name
 Description</String>
          <ConnectedNoteIDs>11, 16, 26-27</ConnectedNoteIDs>
       </Note>
-      <Note Width="168.244" FontSize="12" ID="16" Position="846.2,927.4">
+      <Note Width="168.244" FontSize="12" ID="16" Position="846.2,968.6">
          <Appearance>
             <Alignment>Left</Alignment>
             <Fill>0.768627 0.874510 0.686275</Fill>
@@ -314,7 +315,7 @@ Race
 Class</String>
          <ConnectedNoteIDs>11-12, 15</ConnectedNoteIDs>
       </Note>
-      <Note Width="119.751" FontSize="12" ID="17" Position="1327.8,246.3">
+      <Note Width="119.751" FontSize="12" ID="17" Position="1327.8,287.5">
          <Appearance>
             <Alignment>Left</Alignment>
             <Fill>0.844068 0.869596 0.923064</Fill>
@@ -331,7 +332,7 @@ Expiry Date
 Pre-pay Funds</String>
          <ConnectedNoteIDs>1, 18, 50</ConnectedNoteIDs>
       </Note>
-      <Note Width="156.25" FontSize="12" ID="18" Position="1503.6,233.3">
+      <Note Width="156.25" FontSize="12" ID="18" Position="1503.6,274.5">
          <Appearance>
             <Alignment>Left</Alignment>
             <Fill>0.844068 0.869596 0.923064</Fill>
@@ -345,10 +346,11 @@ Pre-pay Funds</String>
 LARPer
 Transaction Type (e.g. Membership, Game Fee, Payment)
 Game
-Club Membership</String>
+Club Membership
+Amount</String>
          <ConnectedNoteIDs>1, 4, 17</ConnectedNoteIDs>
       </Note>
-      <Note Width="149.133" FontSize="12" ID="19" Position="622.8,580.7">
+      <Note Width="149.133" FontSize="12" ID="19" Position="622.8,621.9">
          <Appearance>
             <Alignment>Left</Alignment>
             <Fill>0.768627 0.874510 0.686275</Fill>
@@ -363,7 +365,7 @@ Race
 Guild</String>
          <ConnectedNoteIDs>11-13</ConnectedNoteIDs>
       </Note>
-      <Note Width="105.591" FontSize="12" ID="20" Position="564.8,272.7">
+      <Note Width="105.591" FontSize="12" ID="20" Position="564.8,313.9">
          <Appearance>
             <Alignment>Left</Alignment>
             <Fill>0.768627 0.874510 0.686275</Fill>
@@ -379,9 +381,9 @@ Description
 Requirements
 Bonuses
 Titles</String>
-         <ConnectedNoteIDs>11, 13-14, 22-23</ConnectedNoteIDs>
+         <ConnectedNoteIDs>11, 13-14, 22-23, 61-62</ConnectedNoteIDs>
       </Note>
-      <Note Width="104.102" FontSize="12" ID="21" Position="384.6,1201.7">
+      <Note Width="104.102" FontSize="12" ID="21" Position="384.6,1242.9">
          <Appearance>
             <Alignment>Left</Alignment>
             <Fill>0.768627 0.874510 0.686275</Fill>
@@ -397,7 +399,7 @@ Origin
 Castings</String>
          <ConnectedNoteIDs>5, 7, 11</ConnectedNoteIDs>
       </Note>
-      <Note Width="113.098" FontSize="12" ID="22" Position="392.9,243.0">
+      <Note Width="113.098" FontSize="12" ID="22" Position="392.9,284.2">
          <Appearance>
             <Alignment>Left</Alignment>
             <Fill>0.768627 0.874510 0.686275</Fill>
@@ -414,7 +416,7 @@ Name
 Rank Requirement</String>
          <ConnectedNoteIDs>11, 13, 20</ConnectedNoteIDs>
       </Note>
-      <Note Width="112.988" FontSize="12" ID="23" Position="841.7,518.1">
+      <Note Width="112.988" FontSize="12" ID="23" Position="841.7,559.3">
          <Appearance>
             <Alignment>Left</Alignment>
             <Fill>0.898329 0.817472 0.865339</Fill>
@@ -438,7 +440,7 @@ Approval
 Source (e.g. Guild/Branch)</String>
          <ConnectedNoteIDs>2, 5, 13, 20, 25</ConnectedNoteIDs>
       </Note>
-      <Note Width="166.84" FontSize="12" ID="24" Position="1387.3,972.3">
+      <Note Width="166.84" FontSize="12" ID="24" Position="1712.1,1126.5">
          <Appearance>
             <Alignment>Left</Alignment>
             <Fill>0.898329 0.817472 0.865339</Fill>
@@ -452,9 +454,9 @@ Source (e.g. Guild/Branch)</String>
 Character
 Date
 Points</String>
-         <ConnectedNoteIDs>2, 36</ConnectedNoteIDs>
+         <ConnectedNoteIDs>2, 36, 54</ConnectedNoteIDs>
       </Note>
-      <Note Width="168.229" FontSize="12" ID="25" Position="23.4,717.4">
+      <Note Width="168.229" FontSize="12" ID="25" Position="23.4,758.6">
          <Appearance>
             <Alignment>Left</Alignment>
             <Fill>0.768627 0.874510 0.686275</Fill>
@@ -474,7 +476,7 @@ Purchase Limit (i.e. number of times can be bought)
 Restrictions</String>
          <ConnectedNoteIDs>9, 11, 23, 26</ConnectedNoteIDs>
       </Note>
-      <Note Width="147.266" FontSize="12" ID="26" Position="569.3,976.4">
+      <Note Width="147.266" FontSize="12" ID="26" Position="569.3,1017.6">
          <Appearance>
             <Alignment>Left</Alignment>
             <Fill>0.768627 0.874510 0.686275</Fill>
@@ -494,7 +496,7 @@ Formula
 Base Skill Cost (self-join)</String>
          <ConnectedNoteIDs>11-12, 15, 25</ConnectedNoteIDs>
       </Note>
-      <Note Width="123.315" FontSize="12" ID="27" Position="1006.8,1083.4">
+      <Note Width="123.315" FontSize="12" ID="27" Position="1006.8,1124.6">
          <Appearance>
             <Alignment>Left</Alignment>
             <Fill>0.898329 0.817472 0.865339</Fill>
@@ -509,7 +511,7 @@ Character
 Class</String>
          <ConnectedNoteIDs>2, 15</ConnectedNoteIDs>
       </Note>
-      <Note Width="149.878" FontSize="12" ID="28" Position="86.6,1000.7">
+      <Note Width="149.878" FontSize="12" ID="28" Position="86.6,1041.9">
          <Appearance>
             <Alignment>Left</Alignment>
             <Fill>0.768627 0.874510 0.686275</Fill>
@@ -524,7 +526,7 @@ Casting
 Dependency</String>
          <ConnectedNoteIDs>5, 11</ConnectedNoteIDs>
       </Note>
-      <Note Width="89.2578" FontSize="12" ID="29" Position="106.2,50.0">
+      <Note Width="89.2578" FontSize="12" ID="29" Position="106.2,91.2">
          <Appearance>
             <Alignment>Left</Alignment>
             <Fill>1.0 0.752941 0.792157</Fill>
@@ -543,7 +545,7 @@ Next Page
 Entries</String>
          <ConnectedNoteIDs>30</ConnectedNoteIDs>
       </Note>
-      <Note Width="156.25" FontSize="12" ID="30" Position="102.1,208.4">
+      <Note Width="156.25" FontSize="12" ID="30" Position="102.1,249.6">
          <Appearance>
             <Alignment>Left</Alignment>
             <Fill>1.0 0.752941 0.792157</Fill>
@@ -560,7 +562,7 @@ Next Entry (self-join)
 Rule</String>
          <ConnectedNoteIDs>10, 29</ConnectedNoteIDs>
       </Note>
-      <Note Width="75.3418" FontSize="12" ID="31" Position="47.2,458.5">
+      <Note Width="75.3418" FontSize="12" ID="31" Position="47.2,499.7">
          <Appearance>
             <Alignment>Left</Alignment>
             <Fill>0.768627 0.874510 0.686275</Fill>
@@ -575,7 +577,7 @@ Name
 Text</String>
          <ConnectedNoteIDs>11</ConnectedNoteIDs>
       </Note>
-      <Note Width="156.25" FontSize="12" ID="32" Position="302.1,61.9">
+      <Note Width="156.25" FontSize="12" ID="32" Position="1046.3,138.0">
          <Appearance>
             <Alignment>Left</Alignment>
             <Fill>1.0 0.752941 0.792157</Fill>
@@ -595,7 +597,7 @@ Edit Roles
 Campaign</String>
          <ConnectedNoteIDs>46, 49</ConnectedNoteIDs>
       </Note>
-      <Note Width="179.756" FontSize="12" ID="33" Position="1416.7,1116.8">
+      <Note Width="179.756" FontSize="12" ID="33" Position="1603.8,1532.2">
          <Appearance>
             <Alignment>Left</Alignment>
             <Fill>0.898329 0.817472 0.865339</Fill>
@@ -611,7 +613,7 @@ Date
 Florins</String>
          <ConnectedNoteIDs>2, 36</ConnectedNoteIDs>
       </Note>
-      <Note Width="125.586" FontSize="12" ID="34" Position="2033.3,732.8">
+      <Note Width="125.586" FontSize="12" ID="34" Position="2371.5,1072.1">
          <Appearance>
             <Alignment>Left</Alignment>
             <Fill>0.934157 0.888319 0.785290</Fill>
@@ -631,7 +633,7 @@ Base Monster Points
 Base Danger Pay</String>
          <ConnectedNoteIDs>4, 36-38</ConnectedNoteIDs>
       </Note>
-      <Note Width="155.762" FontSize="12" ID="35" Position="1410.4,835.5">
+      <Note Width="155.762" FontSize="12" ID="35" Position="1776.4,1026.8">
          <Appearance>
             <Alignment>Left</Alignment>
             <Fill>0.934157 0.888319 0.785290</Fill>
@@ -645,9 +647,9 @@ Base Danger Pay</String>
 LARPer
 Date
 Points</String>
-         <ConnectedNoteIDs>1, 37-38</ConnectedNoteIDs>
+         <ConnectedNoteIDs>1, 37-38, 55, 58</ConnectedNoteIDs>
       </Note>
-      <Note Width="97.5098" FontSize="12" ID="36" Position="2063.9,1093.2">
+      <Note Width="97.5098" FontSize="12" ID="36" Position="2164.6,1285.5">
          <Appearance>
             <Alignment>Left</Alignment>
             <Fill>0.934157 0.888319 0.785290</Fill>
@@ -664,9 +666,9 @@ Bonus Points
 Bonus Pay
 Other Income
 Comment</String>
-         <ConnectedNoteIDs>24, 33-34</ConnectedNoteIDs>
+         <ConnectedNoteIDs>24, 33-34, 63</ConnectedNoteIDs>
       </Note>
-      <Note Width="115.906" FontSize="12" ID="37" Position="1721.5,761.9">
+      <Note Width="115.906" FontSize="12" ID="37" Position="2160.4,969.6">
          <Appearance>
             <Alignment>Left</Alignment>
             <Fill>0.934157 0.888319 0.785290</Fill>
@@ -683,7 +685,7 @@ Bonus Points
 Comment</String>
          <ConnectedNoteIDs>1, 34-35</ConnectedNoteIDs>
       </Note>
-      <Note Width="85.6567" FontSize="12" ID="38" Position="1747.2,946.7">
+      <Note Width="85.6567" FontSize="12" ID="38" Position="2135.8,1133.9">
          <Appearance>
             <Alignment>Left</Alignment>
             <Fill>0.934157 0.888319 0.785290</Fill>
@@ -700,7 +702,7 @@ GM Points
 Comment</String>
          <ConnectedNoteIDs>1, 34-35</ConnectedNoteIDs>
       </Note>
-      <Note Width="141.943" FontSize="12" ID="39" Position="1862.5,255.7">
+      <Note Width="141.943" FontSize="12" ID="39" Position="2628.3,875.6">
          <Appearance>
             <Alignment>Left</Alignment>
             <Fill>0.934157 0.888319 0.785290</Fill>
@@ -719,7 +721,7 @@ Character
 State</String>
          <ConnectedNoteIDs>1-2, 4, 42</ConnectedNoteIDs>
       </Note>
-      <Note Width="84.1919" FontSize="12" ID="40" Position="2021.5,449.4">
+      <Note Width="84.1919" FontSize="12" ID="40" Position="2357.6,293.2">
          <Appearance>
             <Alignment>Left</Alignment>
             <Fill>0.934157 0.888319 0.785290</Fill>
@@ -731,10 +733,12 @@ State</String>
          <String>Event Meals
 
 Event
-Meal</String>
+Meal
+Options
+Caterers</String>
          <ConnectedNoteIDs>1, 4, 41</ConnectedNoteIDs>
       </Note>
-      <Note Width="130.676" FontSize="12" ID="41" Position="2162.5,453.6">
+      <Note Width="130.676" FontSize="12" ID="41" Position="2587.0,464.0">
          <Appearance>
             <Alignment>Left</Alignment>
             <Fill>0.934157 0.888319 0.785290</Fill>
@@ -749,7 +753,7 @@ Event Meal
 Food Option</String>
          <ConnectedNoteIDs>40, 42</ConnectedNoteIDs>
       </Note>
-      <Note Width="119.946" FontSize="12" ID="42" Position="2126.9,292.0">
+      <Note Width="119.946" FontSize="12" ID="42" Position="2655.3,677.6">
          <Appearance>
             <Alignment>Left</Alignment>
             <Fill>0.934157 0.888319 0.785290</Fill>
@@ -764,7 +768,7 @@ Planned Attendance
 Event Meal Option</String>
          <ConnectedNoteIDs>39, 41</ConnectedNoteIDs>
       </Note>
-      <Note Width="132.544" FontSize="12" ID="43" Position="723.6,168.2">
+      <Note Width="132.544" FontSize="12" ID="43" Position="723.6,209.4">
          <Appearance>
             <Alignment>Left</Alignment>
             <Fill>0.517647 0.776471 0.776471</Fill>
@@ -785,7 +789,7 @@ Result
 Rejection Reason</String>
          <ConnectedNoteIDs>44</ConnectedNoteIDs>
       </Note>
-      <Note Width="150.708" FontSize="12" ID="44" Position="879.8,188.4">
+      <Note Width="150.708" FontSize="12" ID="44" Position="879.8,216.2">
          <Appearance>
             <Alignment>Left</Alignment>
             <Fill>0.517647 0.776471 0.776471</Fill>
@@ -802,7 +806,7 @@ Overall Result
 Decision Date</String>
          <ConnectedNoteIDs>43</ConnectedNoteIDs>
       </Note>
-      <Note Width="103.74" FontSize="12" ID="45" Position="1259.0,1105.7">
+      <Note Width="103.74" FontSize="12" ID="45" Position="1210.6,586.6">
          <Appearance>
             <Alignment>Left</Alignment>
             <Fill>0.898329 0.817472 0.865339</Fill>
@@ -817,10 +821,11 @@ Character
 Type (e.g. Magical, Divine)
 Description
 Effect
-Level</String>
-         <ConnectedNoteIDs>2</ConnectedNoteIDs>
+Level
+GMs</String>
+         <ConnectedNoteIDs>1-2</ConnectedNoteIDs>
       </Note>
-      <Note Width="72.0825" FontSize="12" ID="46" Position="1764.9,96.4">
+      <Note Width="72.0825" FontSize="12" ID="46" Position="1752.6,90.3">
          <Appearance>
             <Alignment>Left</Alignment>
             <Fill>0.934157 0.888319 0.785290</Fill>
@@ -841,7 +846,7 @@ Main or Arc
 GM Notes</String>
          <ConnectedNoteIDs>1, 4, 32, 47, 51</ConnectedNoteIDs>
       </Note>
-      <Note Width="106.482" FontSize="12" ID="47" Position="2318.1,597.2">
+      <Note Width="106.482" FontSize="12" ID="47" Position="2563.8,166.6">
          <Appearance>
             <Alignment>Left</Alignment>
             <Fill>0.912963 0.894118 0.644541</Fill>
@@ -858,7 +863,7 @@ IC
 Open</String>
          <ConnectedNoteIDs>46, 48</ConnectedNoteIDs>
       </Note>
-      <Note Width="80.835" FontSize="12" ID="48" Position="2332.2,864.9">
+      <Note Width="80.835" FontSize="12" ID="48" Position="2271.6,47.7">
          <Appearance>
             <Alignment>Left</Alignment>
             <Fill>0.912963 0.894118 0.644541</Fill>
@@ -877,7 +882,7 @@ Event
 Message</String>
          <ConnectedNoteIDs>1-2, 4, 47</ConnectedNoteIDs>
       </Note>
-      <Note Width="44.7144" FontSize="12" ID="49" Position="1209.0,40.1">
+      <Note Width="44.7144" FontSize="12" ID="49" Position="1249.1,19.6">
          <Appearance>
             <Alignment>Left</Alignment>
             <Fill>0.844068 0.869596 0.923064</Fill>
@@ -894,7 +899,7 @@ Alias
 Visible</String>
          <ConnectedNoteIDs>32, 50</ConnectedNoteIDs>
       </Note>
-      <Note Width="129.956" FontSize="12" ID="50" Position="1433.1,23.4">
+      <Note Width="129.956" FontSize="12" ID="50" Position="1391.0,23.4">
          <Appearance>
             <Alignment>Left</Alignment>
             <Fill>0.844068 0.869596 0.923064</Fill>
@@ -913,7 +918,7 @@ Granted By
 Additional Information</String>
          <ConnectedNoteIDs>17, 49</ConnectedNoteIDs>
       </Note>
-      <Note Width="120.007" FontSize="12" ID="51" Position="2035.1,574.4">
+      <Note Width="120.007" FontSize="12" ID="51" Position="1756.5,270.2">
          <Appearance>
             <Alignment>Left</Alignment>
             <Fill>0.517647 0.776471 0.776471</Fill>
@@ -931,7 +936,7 @@ Title
 Ranks</String>
          <ConnectedNoteIDs>1, 4, 46</ConnectedNoteIDs>
       </Note>
-      <Note Width="145.837" FontSize="12" ID="52" Position="1644.4,1219.9">
+      <Note Width="144.873" FontSize="12" ID="52" Position="1551.9,1171.6">
          <Appearance>
             <Alignment>Left</Alignment>
             <Fill>0.517647 0.776471 0.776471</Fill>
@@ -947,7 +952,7 @@ Name
 Title
 Race
 Class
-Path
+Paths
 Schools
 Starting Points
 Starting Money
@@ -955,7 +960,7 @@ Starting DTs
 Guild History</String>
          <ConnectedNoteIDs>1-2</ConnectedNoteIDs>
       </Note>
-      <Note Width="124.194" FontSize="12" ID="53" Position="828.6,1227.6">
+      <Note Width="123.315" FontSize="12" ID="53" Position="828.6,1268.8">
          <Appearance>
             <Alignment>Left</Alignment>
             <Fill>0.517647 0.776471 0.776471</Fill>
@@ -964,13 +969,10 @@ Guild History</String>
          <Formatting>
             <FormatRange Bold="Yes">0,17</FormatRange>
          </Formatting>
-         <String>Character Recycle
-
-LARPer
-Character</String>
+         <String>Character Recycle</String>
          <ConnectedNoteIDs>2</ConnectedNoteIDs>
       </Note>
-      <Note Width="124.194" FontSize="12" ID="54" Position="1384.4,1236.6">
+      <Note Width="124.194" FontSize="12" ID="54" Position="1903.5,1152.4">
          <Appearance>
             <Alignment>Left</Alignment>
             <Fill>0.517647 0.776471 0.776471</Fill>
@@ -979,14 +981,10 @@ Character</String>
          <Formatting>
             <FormatRange Bold="Yes">0,26</FormatRange>
          </Formatting>
-         <String>Character Point Adjustment
-
-LARPer
-Character
-Points</String>
-         <ConnectedNoteIDs>2</ConnectedNoteIDs>
+         <String>Character Point Adjustment</String>
+         <ConnectedNoteIDs>24</ConnectedNoteIDs>
       </Note>
-      <Note Width="124.194" FontSize="12" ID="55" Position="1867.4,1294.2">
+      <Note Width="124.194" FontSize="12" ID="55" Position="1626.9,1035.2">
          <Appearance>
             <Alignment>Left</Alignment>
             <Fill>0.517647 0.776471 0.776471</Fill>
@@ -995,13 +993,10 @@ Points</String>
          <Formatting>
             <FormatRange Bold="Yes">0,24</FormatRange>
          </Formatting>
-         <String>Monster Point Adjustment
-
-LARPer
-Points</String>
-         <ConnectedNoteIDs>1</ConnectedNoteIDs>
+         <String>Monster Point Adjustment</String>
+         <ConnectedNoteIDs>35</ConnectedNoteIDs>
       </Note>
-      <Note Width="155.908" FontSize="12" ID="56" Position="1038.7,1409.4">
+      <Note Width="155.029" FontSize="12" ID="56" Position="993.5,1268.6">
          <Appearance>
             <Alignment>Left</Alignment>
             <Fill>0.517647 0.776471 0.776471</Fill>
@@ -1010,13 +1005,10 @@ Points</String>
          <Formatting>
             <FormatRange Bold="Yes">0,22</FormatRange>
          </Formatting>
-         <String>Character Resurrection
-
-LARPer
-Character</String>
+         <String>Character Resurrection</String>
          <ConnectedNoteIDs>2</ConnectedNoteIDs>
       </Note>
-      <Note Width="165.215" FontSize="12" ID="57" Position="975.9,533.5">
+      <Note Width="165.215" FontSize="12" ID="57" Position="973.8,324.9">
          <Appearance>
             <Alignment>Left</Alignment>
             <Fill>0.517647 0.776471 0.776471</Fill>
@@ -1025,14 +1017,10 @@ Character</String>
          <Formatting>
             <FormatRange Bold="Yes">0,22</FormatRange>
          </Formatting>
-         <String>Character Guild Change
-
-LARPer
-Character
-Guild History</String>
-         <ConnectedNoteIDs>2, 14</ConnectedNoteIDs>
+         <String>Character Guild Change</String>
+         <ConnectedNoteIDs>14</ConnectedNoteIDs>
       </Note>
-      <Note Width="124.194" FontSize="12" ID="58" Position="1887.9,958.7">
+      <Note Width="124.194" FontSize="12" ID="58" Position="1634.0,947.4">
          <Appearance>
             <Alignment>Left</Alignment>
             <Fill>0.517647 0.776471 0.776471</Fill>
@@ -1041,13 +1029,10 @@ Guild History</String>
          <Formatting>
             <FormatRange Bold="Yes">0,25</FormatRange>
          </Formatting>
-         <String>Monster Point Declaration
-
-LARPer
-Points</String>
-         <ConnectedNoteIDs>1</ConnectedNoteIDs>
+         <String>Monster Point Declaration</String>
+         <ConnectedNoteIDs>35</ConnectedNoteIDs>
       </Note>
-      <Note Width="124.194" FontSize="12" ID="59" Position="988.7,1204.5">
+      <Note Width="124.194" FontSize="12" ID="59" Position="1303.3,1596.2">
          <Appearance>
             <Alignment>Left</Alignment>
             <Fill>0.517647 0.776471 0.776471</Fill>
@@ -1056,12 +1041,74 @@ Points</String>
          <Formatting>
             <FormatRange Bold="Yes">0,23</FormatRange>
          </Formatting>
-         <String>Character DT Adjustment
+         <String>Character DT Adjustment</String>
+         <ConnectedNoteIDs>63</ConnectedNoteIDs>
+      </Note>
+      <Note Width="70.1538" FontSize="12" ID="60" Position="2406.4,562.5">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Fill>0.934157 0.888319 0.785290</Fill>
+            <Border Weight="1">0.269490 0.164034 0.186694</Border>
+         </Appearance>
+         <Formatting>
+            <FormatRange Bold="Yes">0,9</FormatRange>
+         </Formatting>
+         <String>Locations
 
-LARPer
+Name
+Address
+Notes</String>
+         <ConnectedNoteIDs>4</ConnectedNoteIDs>
+      </Note>
+      <Note Width="136.78" FontSize="12" ID="61" Position="525.3,197.6">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Fill>0.768627 0.874510 0.686275</Fill>
+            <Border Weight="1" Style="Rounded">0.400000 0.686275 0.215686</Border>
+         </Appearance>
+         <Formatting>
+            <FormatRange Bold="Yes">0,13</FormatRange>
+         </Formatting>
+         <String>Guild Bonuses
+
+Bonus Type
+Basis (e.g. Guild Rank)
+Retention</String>
+         <ConnectedNoteIDs>11, 13, 20, 62</ConnectedNoteIDs>
+      </Note>
+      <Note Width="156.25" FontSize="12" ID="62" Position="712.4,412.5">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Fill>0.898329 0.817472 0.865339</Fill>
+            <Border Weight="1">0.690303 0.407263 0.550912</Border>
+         </Appearance>
+         <Formatting>
+            <FormatRange Bold="Yes">0,23</FormatRange>
+            <FormatRange Italic="Yes">24,16</FormatRange>
+         </Formatting>
+         <String>Character Guild Bonuses
+(needs history?)
+Bonus
+Guild/Branch
+Purchase Date
+Parameter (e.g. spell chain, enemy type, weapon)</String>
+         <ConnectedNoteIDs>2, 13, 20, 61</ConnectedNoteIDs>
+      </Note>
+      <Note Width="150.61" FontSize="12" ID="63" Position="1317.8,1445.6">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Fill>0.898329 0.817472 0.865339</Fill>
+            <Border Weight="1">0.690303 0.407263 0.550912</Border>
+         </Appearance>
+         <Formatting>
+            <FormatRange Bold="Yes">0,20</FormatRange>
+         </Formatting>
+         <String>Character DT Changes
+
 Character
+Date
 DTs</String>
-         <ConnectedNoteIDs>2</ConnectedNoteIDs>
+         <ConnectedNoteIDs>2, 36, 59</ConnectedNoteIDs>
       </Note>
    </Notes>
    <BackgroundShapes/>
