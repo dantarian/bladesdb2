@@ -31,7 +31,7 @@ Other metadata</String>
 Name
 Pronouns
 Committee Notes</String>
-         <ConnectedNoteIDs>0, 2-4, 17-18, 35, 37-40, 45-46, 48, 51-52, 66-68</ConnectedNoteIDs>
+         <ConnectedNoteIDs>0, 2-4, 17-18, 35, 37-40, 45-46, 48, 51-52, 66-68, 70-71</ConnectedNoteIDs>
       </Note>
       <Note Width="83.8257" FontSize="12" ID="2" Position="1108.1,847.0">
          <Appearance>
@@ -599,7 +599,7 @@ Edit Roles
 Campaign</String>
          <ConnectedNoteIDs>46, 49</ConnectedNoteIDs>
       </Note>
-      <Note Width="179.756" FontSize="12" ID="33" Position="1561.7,1694.9">
+      <Note Width="179.756" FontSize="12" ID="33" Position="1406.7,1678.3">
          <Appearance>
             <Alignment>Left</Alignment>
             <Fill>0.898329 0.817472 0.865339</Fill>
@@ -938,7 +938,7 @@ Title
 Ranks</String>
          <ConnectedNoteIDs>1, 4, 46</ConnectedNoteIDs>
       </Note>
-      <Note Width="144.873" FontSize="12" ID="52" Position="1472.7,1220.2">
+      <Note Width="144.873" FontSize="12" ID="52" Position="1299.8,1055.0">
          <Appearance>
             <Alignment>Left</Alignment>
             <Fill>0.517647 0.776471 0.776471</Fill>
@@ -961,7 +961,7 @@ Starting DTs
 Guild History</String>
          <ConnectedNoteIDs>1-2</ConnectedNoteIDs>
       </Note>
-      <Note Width="123.315" FontSize="12" ID="53" Position="1671.5,1414.0">
+      <Note Width="123.315" FontSize="12" ID="53" Position="1759.9,1433.2">
          <Appearance>
             <Alignment>Left</Alignment>
             <Fill>0.517647 0.776471 0.776471</Fill>
@@ -985,7 +985,7 @@ Guild History</String>
          <String>Character Point Adjustment</String>
          <ConnectedNoteIDs>24</ConnectedNoteIDs>
       </Note>
-      <Note Width="124.194" FontSize="12" ID="55" Position="1626.9,1145.4">
+      <Note Width="124.194" FontSize="12" ID="55" Position="1670.4,1037.8">
          <Appearance>
             <Alignment>Left</Alignment>
             <Fill>0.517647 0.776471 0.776471</Fill>
@@ -997,7 +997,7 @@ Guild History</String>
          <String>Monster Point Adjustment</String>
          <ConnectedNoteIDs>35</ConnectedNoteIDs>
       </Note>
-      <Note Width="155.029" FontSize="12" ID="56" Position="1100.4,1577.3">
+      <Note Width="155.029" FontSize="12" ID="56" Position="1036.4,1597.8">
          <Appearance>
             <Alignment>Left</Alignment>
             <Fill>0.517647 0.776471 0.776471</Fill>
@@ -1021,7 +1021,7 @@ Guild History</String>
          <String>Character Guild Change</String>
          <ConnectedNoteIDs>14</ConnectedNoteIDs>
       </Note>
-      <Note Width="124.194" FontSize="12" ID="58" Position="1634.0,1057.7">
+      <Note Width="124.194" FontSize="12" ID="58" Position="1849.2,1003.9">
          <Appearance>
             <Alignment>Left</Alignment>
             <Fill>0.517647 0.776471 0.776471</Fill>
@@ -1033,7 +1033,7 @@ Guild History</String>
          <String>Monster Point Declaration</String>
          <ConnectedNoteIDs>35</ConnectedNoteIDs>
       </Note>
-      <Note Width="124.194" FontSize="12" ID="59" Position="1303.3,1706.5">
+      <Note Width="124.194" FontSize="12" ID="59" Position="1211.1,1718.0">
          <Appearance>
             <Alignment>Left</Alignment>
             <Fill>0.517647 0.776471 0.776471</Fill>
@@ -1095,7 +1095,7 @@ Purchase Date
 Parameter (e.g. spell chain, enemy type, weapon)</String>
          <ConnectedNoteIDs>2, 13, 20, 61</ConnectedNoteIDs>
       </Note>
-      <Note Width="150.61" FontSize="12" ID="63" Position="1317.8,1555.8">
+      <Note Width="150.61" FontSize="12" ID="63" Position="1238.4,1580.1">
          <Appearance>
             <Alignment>Left</Alignment>
             <Fill>0.898329 0.817472 0.865339</Fill>
@@ -1111,7 +1111,7 @@ Date
 DTs</String>
          <ConnectedNoteIDs>2, 36, 59</ConnectedNoteIDs>
       </Note>
-      <Note Width="156.25" FontSize="12" ID="64" Position="1132.8,1413.9">
+      <Note Width="156.25" FontSize="12" ID="64" Position="1090.5,1430.5">
          <Appearance>
             <Alignment>Left</Alignment>
             <Fill>0.898329 0.817472 0.865339</Fill>
@@ -1203,6 +1203,47 @@ Mobile telephone number</String>
          </Formatting>
          <String>Character Restat</String>
          <ConnectedNoteIDs>23</ConnectedNoteIDs>
+      </Note>
+      <Note Width="106.201" FontSize="12" ID="70" Position="1617.6,1709.2">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Fill>0.647059 0.701961 0.901961</Fill>
+            <Border Weight="1" Style="Rounded"/>
+         </Appearance>
+         <Formatting>
+            <FormatRange Bold="Yes">0,9</FormatRange>
+         </Formatting>
+         <String>Kit Group
+Name
+Description
+Photo
+Stored By
+Standard Kit
+First Aid Kit
+Belongs to Group</String>
+         <ConnectedNoteIDs>1, 71</ConnectedNoteIDs>
+      </Note>
+      <Note Width="126.904" FontSize="12" ID="71" Position="1748.2,1677.1">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Fill>0.647059 0.701961 0.901961</Fill>
+            <Border Weight="1" Style="Rounded"/>
+         </Appearance>
+         <Formatting>
+            <FormatRange Bold="Yes">0,8</FormatRange>
+         </Formatting>
+         <String>Kit Item
+Name
+Description
+Quantity
+Photo
+Owner
+Stored By
+Standard Kit
+First Aid Kit
+Expiry Date
+Out For Maintenance</String>
+         <ConnectedNoteIDs>1, 70</ConnectedNoteIDs>
       </Note>
    </Notes>
    <BackgroundShapes/>
